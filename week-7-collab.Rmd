@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Big Sur camping trip soon??
 
 Sooooooo down, might as well throw in Yosemite on the way??
+
+Hell freakin yes
